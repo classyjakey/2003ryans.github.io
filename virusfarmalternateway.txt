@@ -1,0 +1,11 @@
+This is if Virus Farm goes down at any time by faggots frying it.
+So what you do is go to http://computernewb.com/collab-vm/ (DO NOT CLICK TINY7)
+Then you think about which node you want to go to.
+For node 1 or 2, go here: http://hastebin.com/raw/nijurujiva.coffee
+For node 3, go here: http://hastebin.com/raw/zelowelila.coffee
+Then, go back to the collabvm tab, then press Ctrl+Shift+I then press Console.
+Then go back to the hastebin tab and copy paste ALL OF IT into the console then press enter.
+If it doesn't work you didn't copy it correctly.
+If it succeeds you should see the node(s) appear.
+Click the node you want and have fun.
+~Windows98_SE
