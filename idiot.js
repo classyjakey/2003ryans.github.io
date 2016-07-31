@@ -58,7 +58,3 @@ function playBall(){
         setTimeout('playBall()',1);
         }
         }
-
-function openmessagebox() {
-	alert("You are an idiot!");
-}
