@@ -59,6 +59,6 @@ function playBall(){
         }
         }
 
-function openmessagebox(){
-	window.alert("You are an idiot!");
+function openmessagebox() {
+	alert("You are an idiot!");
 }
